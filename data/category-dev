@@ -53,6 +53,7 @@ include:ruby
 include:rust
 include:redhat
 include:scala
+include:sentry
 include:sourcehut
 include:stackexchange
 include:strikingly
@@ -99,6 +100,7 @@ greenend.org.uk
 
 hex.pm
 hexdocs.pm
+imageglass.org
 ius.io
 jenkins.io
 js.org
@@ -114,7 +116,9 @@ mingw.org
 # Mobatek official website.
 mobatek.net
 
+mpv.io
 mysql.com
+neovim.io
 nixos.org
 nodesource.com
 notepad-plus-plus.org
