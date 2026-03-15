@@ -1,15 +1,21 @@
 include:anthropic
 include:bytedance-ai-!cn
 include:cerebras
+include:comfy
 include:cursor
 include:elevenlabs
+include:github-copilot
 include:google-deepmind
 include:groq
 include:huggingface
+include:liveperson
+include:manus
 include:openai
 include:perplexity
 include:poe
+include:windsurf
 include:xai
+include:youmind
 
 # CodeRabbit
 coderabbit.ai
@@ -24,12 +30,20 @@ clipdrop.co
 jasper.ai
 
 chutes.ai
+clawhub.ai
 copilot.microsoft.com
 devin.ai
 diabrowser.com
+diabrowser.engineering
 dify.ai
+duck.ai
 gateway.ai.cloudflare.com
+h2o.ai
+kiro.dev
+lovart.ai
 meta.ai
 mistral.ai
 openart.ai
+openclaw.ai
 openrouter.ai
+spicywriter.com

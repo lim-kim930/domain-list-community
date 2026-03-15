@@ -13,6 +13,9 @@ boe.com.cn
 # 博流智能
 bouffalolab.com
 
+# 长鑫存储
+cxmt.com
+
 # 乐鑫信息科技
 esp8266.cn
 esp8266.com
@@ -60,3 +63,6 @@ ti.com.cn
 # 沁恒微电子
 wch.cn
 wch-ic.com
+
+# 长江存储
+include:ymtc

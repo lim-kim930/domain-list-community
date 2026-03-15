@@ -33,22 +33,17 @@ include:java
 include:jetbrains
 include:jetbrains-ai
 include:jfrog
-include:jsdelivr
 include:kubernetes
 include:microsoft-dev
 include:mongodb
 include:nginx
-include:nixos
 include:openwrt
-include:osdn
 include:perl
 include:polymer
 include:python
-include:python-community
 include:qt
 include:readthedocs
 include:redis
-include:remirepo
 include:ruby
 include:rust
 include:redhat
@@ -59,10 +54,8 @@ include:stackexchange
 include:strikingly
 include:termux
 include:thelinuxfoundation
-include:topcoder
 include:unity
 include:v8
-include:vim
 
 adventofcode.com
 alpinelinux.org
@@ -70,15 +63,12 @@ apache.org
 artixlinux.org
 atom.io
 badgen.net
-
-# Bitvise official website.
 bitvise.com
-
-cdnjs.com
 centos.org
 chocolatey.org
 clojure.org
 cnpmjs.org
+cve.org
 cygwin.com
 cython.org
 deno.com
@@ -94,6 +84,7 @@ getcomposer.org
 getzola.org
 git-scm.com
 gnu.org
+godbolt.org
 
 # PuTTY and some software official websites.
 greenend.org.uk
@@ -112,32 +103,33 @@ lua.org
 macports.org
 mariadb.org
 mingw.org
-
-# Mobatek official website.
 mobatek.net
-
 mpv.io
 mysql.com
 neovim.io
+netfilter.org
+newpipe.net
+nftables.org
 nixos.org
 nodesource.com
 notepad-plus-plus.org
 openresty.org
 openssl.org
 opensuse.org
+osdn.net
+packagecloud.io
 packagist.org
 pcre.org
 phantomjs.org
 php.net
-
-# PuTTY unofficial website, owned by Bitvise.
-putty.org
-
+piwheels.org
 postgresql.org
+putty.org
 r-project.org
 raspberrypi.org
 raspbian.org
 regex101.com
+remirepo.net
 rpmfusion.org
 scientificlinux.org
 scoop.sh
@@ -145,15 +137,17 @@ shellcheck.net
 shields.io
 sqlite.org
 sublimetext.com
-
-# Termius official website.
+tampermonkey.net
 termius.com
-
+topcoder.com
 unpkg.com
 videojs.com
 videolan.org
+vim.org
 wapm.io
 wasmer.io
+webflow.com
+weblate.org
 wireshark.org
 x.org
 xposed.info
